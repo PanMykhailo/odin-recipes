@@ -1,0 +1,1 @@
+The main goal of the project is to create a simple recipe website. 
